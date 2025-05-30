@@ -1,36 +1,27 @@
 
 
-# Ce-qui-cherche-naître
+# Ce qui cherche à naître
 
-Ce dépôt contient le projet **Ce-qui-cherche-naître**.
-
-## Description
-
-Décrivez ici l’objectif du projet, son contexte, et ce que vous souhaitez en faire. Par exemple :
-> Ce projet vise à explorer les liens entre la recherche de sens et la création artistique. Il s’agit d’un espace collaboratif pour partager des idées, des textes, des images ou tout autre support en lien avec le thème « Ce qui cherche à naître ».
-
-## Installation
-
-Expliquez ici comment cloner le dépôt et installer les éventuelles dépendances, par exemple :
-
-```bash
-git clone https://github.com/AkselBoursier/Ce-qui-cherche-na-tre.git
-cd Ce-qui-cherche-na-tre
-# Ajoutez ici les étapes d'installation spécifiques (ex: pip install, npm install...)
-```
-
-## Utilisation
-
-Donnez quelques exemples sur la manière d’utiliser ou de contribuer au projet.
-
-## Contribution
-
-Les contributions sont les bienvenues ! N’hésitez pas à ouvrir une issue ou à proposer une pull request.
-
-## Licence
-
-Précisez la licence du projet si vous le souhaitez (par exemple MIT, GPL, etc.).
+> « Ce texte, maintenant, ne cherche plus à conclure. Il voudrait ouvrir. Encore. Toujours. »  
+> — *Aksel Boursier*
 
 ---
 
-Voulez-vous une version plus détaillée, ou souhaitez-vous ajouter des sections spécifiques (par exemple : inspirations, bibliographie, contacts, etc.) ?
+## Une boussole dans la brume
+
+Je suis Aksel.  
+J’ai écrit ce texte pour dire ce que je n’arrivais plus à taire.  
+Peut-être que d’autres y entendront ce qui les cherche aussi.
+
+---
+
+### 📄 Version actuelle (mai 2025) :
+- [Ce qui cherche à naître — version VMonday PDF](./texte/Ce-qui-cherche-a-naître-VMonday.pdf)
+- [Version .docx](./texte/Ce-qui-cherche-a-naître-VMonday.docx)
+
+### 🎨 Symboles visuels
+- Spirale de fougère : `./workspaces/Ce-qui-cherche-na-tre/ChatGPT Image 30 mai 2025, 16_15_00.png
+
+---
+
+**Ce dépôt est un espace vivant. Il ne cherche pas à figer. Il cherche à résonner.**
